@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     SPDX-FileCopyrightText: 2022 The LineageOS Project
+     Copyright (C) 2022 The Project Nyanpasu
+
      SPDX-License-Identifier: Apache-2.0
 -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
@@ -8,11 +9,12 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
-    <path
-        android:fillColor="#ffffffff"
-        android:fillType="evenOdd"
-        android:pathData="M52.472,34C50.957,34 49.572,34.856 48.894,36.211L47,40L33.084,43.274C31.277,43.7 30,45.312 30,47.168V66C30,68.209 31.791,70 34,70H48.354C43.911,66.933 41,61.807 41,56C41,46.611 48.611,39 58,39C67.389,39 75,46.611 75,56C75,61.807 72.089,66.933 67.646,70H74C76.209,70 78,68.209 78,66V46.599C78,45.019 77.069,43.586 75.625,42.944L69,40L67.106,36.211C66.428,34.856 65.043,34 63.528,34H52.472ZM35,50C36.105,50 37,49.105 37,48C37,46.895 36.105,46 35,46C33.895,46 33,46.895 33,48C33,49.105 33.895,50 35,50Z" />
-    <path
-        android:fillColor="#ffffffff"
-        android:pathData="M58,56m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0" />
+    <group android:scaleX="0.108"
+        android:scaleY="0.108"
+        android:translateX="27"
+        android:translateY="27">
+        <path
+            android:pathData="M462,160.77A230,230 0,1 0,480 250a230,230 0,0 0,-18 -89.23ZM436.85,156.21L220.64,156.21L285.18,44.43A209,209 0,0 1,436.83 156.21ZM335,250 L292.84,323L208.61,323L166.49,250l42.12,-72.95h84.23ZM250.73,41.58q6,0 11.83,0.33L154.44,229.16 90,117.48a208.13,208.13 0,0 1,160.77 -75.9ZM76.46,135.77l69,119.44L184.54,323L55.47,323a208.21,208.21 0,0 1,21 -187.18ZM64.62,343.77L280.81,343.77L216.27,455.57A209,209 0,0 1,64.62 343.79ZM250.73,458.42q-6,0 -11.84,-0.32L347,270.85l64.48,111.69a208.14,208.14 0,0 1,-160.75 75.88ZM425,364.24 L316.91,177.05L446,177.05a208.23,208.23 0,0 1,-21 187.19ZM425,364.24Z"
+            android:fillColor="#5c5c66"/>
+    </group>
 </vector>

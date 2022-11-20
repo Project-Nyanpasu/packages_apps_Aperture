@@ -22,4 +22,5 @@
     <color name="yellow">#E9B650</color>
     <color name="blue">#4D84E9</color>
     <color name="rec_red">#FFE95950</color>
+    <color name="ic_launcher_background">#FFFFFFFF</color>
 </resources>
